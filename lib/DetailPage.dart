@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'Model/Data.dart';
 
 class Detail extends StatefulWidget {
-
   Data data;
   Detail(this.data);
   @override

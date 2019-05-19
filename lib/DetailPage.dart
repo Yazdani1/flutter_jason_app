@@ -21,7 +21,6 @@ class _DetailState extends State<Detail> {
       
       body: new ListView(
         children: <Widget>[
-          
           new Container(
             margin: EdgeInsets.all(5.0),
             child: new Column(

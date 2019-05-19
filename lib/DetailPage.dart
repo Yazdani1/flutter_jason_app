@@ -5,9 +5,7 @@ import 'Model/Data.dart';
 class Detail extends StatefulWidget {
 
   Data data;
-
   Detail(this.data);
-
   @override
   _DetailState createState() => new _DetailState();
 }
